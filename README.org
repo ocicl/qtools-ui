@@ -1,0 +1,10 @@
+* qtools-ui
+
+Premade Qtools UI components
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/qtools-ui.git   |
+| commit  | f94a2b3  |
+| systems | qtools-ui |
+|---------+-------------------------------------------|
+
